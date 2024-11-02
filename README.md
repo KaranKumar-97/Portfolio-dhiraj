@@ -63,6 +63,6 @@ Feel free to reach out for any inquiries or collaborations:
 - **LinkedIn**: [Dhiraj Kumar Jha](https://www.linkedin.com/in/dhiraj-jha-8a4130222/)
 - **GitHub**: [GitHub Profile](https://github.com/imjhadhiraj)
 
----
+##RepoMap Of the Portfolio
+![image](https://github.com/user-attachments/assets/9b8b9cdf-f2e9-41fc-9ee1-91706a10d283)
 
-This project is open-source, and contributions are welcome! Feel free to fork the repository and submit pull requests.
