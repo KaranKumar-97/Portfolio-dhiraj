@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Engineer", "Developer", "Analyst", "Designer", "Aspirant"],
+        strings: ["Engineer", "Developer", "Analyst", "Designer", "Aspirant","Writer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Engineer", "Developer", "Analyst", "Designer", "Aspirant"],
+        strings: ["Engineer", "Developer", "Analyst", "Designer", "Aspirant","Writer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -71,3 +71,10 @@ $(document).ready(function(){
         }
     });
 });
+
+window.CustomSubstackWidget = {
+    substackUrl: "imjhadhiraj.substack.com",
+    placeholder: "Enter your email",
+    buttonText: "Subscribe Now",
+    theme: "light", // You can change this to 'dark' or other themes for better visibility
+};
